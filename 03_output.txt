@@ -1,0 +1,12 @@
+{
+    "id": "a1b2c3d4e5",
+    "name": "DynamoDBOperations",
+    "createdDate": "2021-04-01T11:33:28-03:00",
+    "apiKeySource": "HEADER",
+    "endpointConfiguration": {
+        "types": [
+            "EDGE"
+        ]
+    },
+    "disableExecuteApiEndpoint": false
+}

@@ -1,0 +1,6 @@
+{
+    "id": "a1b2c3",
+    "parentId": "a1b2c3d4e5",
+    "pathPart": "DynamoDBManager",
+    "path": "/DynamoDBManager"
+}
